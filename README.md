@@ -8,3 +8,5 @@ Build and run with:
 
 then browse to:
 http://localhost:8080/annotation-webapp-example/
+
+:octocat:
