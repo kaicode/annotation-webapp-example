@@ -1,0 +1,8 @@
+# Maven build dir
+target
+
+# Hidden linux/osx directories
+.*
+
+# Intellij IDEA files
+*.iml
